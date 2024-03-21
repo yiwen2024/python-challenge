@@ -1,5 +1,5 @@
 # python-challenge
->Two Python challenges, PyBank and PyPoll were completed in this assignment. Though this assignment, I learned and practice of read csv file and write results in text file.
+>Two Python challenges, PyBank and PyPoll were completed in this assignment. Through this assignment, I learned and practised reading csv files and writing results in text file.
 
 >PyBank Instructions
 In this Challenge, you are tasked with creating a Python script to analyze the financial records of your company. You will be given a financial dataset called budget_data.csv. The dataset is composed of two columns: "Date" and "Profit/Losses".
@@ -20,12 +20,13 @@ The percentage of votes each candidate won
 The total number of votes each candidate won
 The winner of the election based on popular vote
 
-> Acknologyment 
-  For PyBnak assignment, I referred the script of SYU2017 /Python-Challenge on Git Hub. 
-  For PyPoll assignment, I referred the script of Farzad Khatoonabadi / python-challenge on Git Hub.
-  As a beginner of coding, referring the online resources helped me better understood the structure and language of coding. Baed on the understanding, I was able to put comments and modify the script. Also. the team of AskBCS learning assistant provided support of trouble shooting on my assigment.
+>Acknowledgement
+ For PyBnak challenge, I referred the script of SYU2017 /Python-Challenge on Git Hub. 
+ For PyPoll challenge, I referred the script of Farzad Khatoonabadi / python-challenge on Git Hub.
+ As a beginner of coding, referring those online resources helped me to better understand the structure and language of Python coding. Baed on the understanding, I 
+ was able to put comments and modify the script. Also, the team of AskBCS learning assistant provided great support of trouble shooting on my assigment.
 
->In addition to praticing coding, I learned how to Push these changes to GitHub or GitLab
+>In addition to practicing Paython coding, I learned how to Push these changes to GitHub
 
 
 
